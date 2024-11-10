@@ -5,7 +5,7 @@ Features
 Smooth Scrolling: Implemented with Locomotive Scroll, providing a seamless, modern scrolling experience.
 Dynamic Animations: Powered by GSAP, adding interactivity and motion to various elements on the page.
 Customizable Elements: Easily customizable CSS and animation settings to adjust the look and feel of the site.
-Demo
+Demo: https://ammarmultani03.github.io/miranda-website-clone/
 
 
 Technologies Used
