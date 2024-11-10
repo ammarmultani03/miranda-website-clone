@@ -457,15 +457,17 @@ nav i {
   cursor: grab;
 }
 
-#page6{
-  height: auto;
-  width: 100%;
-}
-
-#footer{
-  height: 100vh;
+/* #page6{
+  height:100%;
   width: 100%;
   background-color: #c4bcb3;
+} */
+
+footer{
+  height:auto;
+  overflow: hidden;
+  width: 100%;
+  background-color:#c4bcb3;
   display: flex;
   /* margin-top: 50%; */
   justify-content: space-evenly;
