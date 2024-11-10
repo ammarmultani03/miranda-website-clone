@@ -20,7 +20,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/miranda.git
+git clone https://github.com/ammarmultani03/miranda.git
 Navigate to the project folder:
 
 bash
